@@ -22,9 +22,10 @@ Made with ❤️ by Henrique Marques 👋🏽 Say hello!
 </h4>
 
 <p align="center">
-  <a href="#information_source-o-que-é-o-aluraesporte">What is the Sports App?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-usar">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-What-is-the-Sports-App">What is the Sports App?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-How-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instalations-Instalations">Instalation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :information_source: Whats is the Sports App?
@@ -54,9 +55,6 @@ On shell, type the following commands:
 ### Download and Install the program
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/alura-cursos/react-native-firebase-authentication.git
-
 # Go to repository
 $ cd react-native-firebase-authentication
 
@@ -69,6 +67,15 @@ $ npm install
 ```bash
 # Execute in another terminal (inside Sports Folder)
 $ expo start
+```
+
+### :instalations: Instalations
+```bash
+# Async Storage
+$ npm i @react-native-async-storage/async-storage@1.17.3
+
+# Firebase
+$ npm i firebase@9.6.11
 ```
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/

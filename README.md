@@ -39,7 +39,7 @@ This project is used in the Firebase formation of React Native of the Alura plat
 </h1>
 
 
-## :rocket: Tecnhologies
+## :rocket: Technologies
 
 This project was developed using the following technologies
 - [React Native][rn]

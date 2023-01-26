@@ -11,9 +11,9 @@ Made with ❤️ by Henrique Marques 👋🏽 Say hello!
 [![Gmail Badge](https://img.shields.io/badge/-henmarques-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hmservicostech@outlook.com.br)](mailto:hmservicostech@outlook.com.br)
 
 ---
-<h1 align="center">
+<!-- <h1 align="center">
     <img alt="Firebase-Auth" title="#Firebase-Auth" src=".images/header.png" width="100%" />
-</h1>
+</h1> -->
 
 <!-- https://alura-github-thumbnail-generator.vercel.app/ -->
 

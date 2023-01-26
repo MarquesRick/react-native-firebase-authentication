@@ -24,7 +24,7 @@ Made with ❤️ by Henrique Marques 👋🏽 Say hello!
 <p align="center">
   <a href="#information_source-What-is-the-Sports-App">What is the Sports App?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#instalations-Instalations">Instalation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#information_source-Instalations">Instalation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-How-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -45,7 +45,7 @@ This project was developed using the following technologies
 - [React Native][rn]
 - [Expo][expo]
 
-### :instalations: Instalations
+### :information_source: Instalations
 ```bash
 # Async Storage
 $ npm i @react-native-async-storage/async-storage@1.17.3

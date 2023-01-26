@@ -28,7 +28,7 @@ Made with ❤️ by Henrique Marques 👋🏽 Say hello!
   <a href="#information_source-How-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :information_source: Whats is the Sports App?
+## :information_source: What is the Sports App?
 
 the Sports is an application made in React Native that allows users to find sports products. This application has integrated Firebase so that users can register and log in.
 

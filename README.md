@@ -24,8 +24,8 @@ Made with ❤️ by Henrique Marques 👋🏽 Say hello!
 <p align="center">
   <a href="#information_source-What-is-the-Sports-App">What is the Sports App?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#instalations-Instalations">Instalation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-How-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#instalations-Instalations">Instalation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :information_source: Whats is the Sports App?
@@ -44,6 +44,15 @@ This project is used in the Firebase formation of React Native of the Alura plat
 This project was developed using the following technologies
 - [React Native][rn]
 - [Expo][expo]
+
+### :instalations: Instalations
+```bash
+# Async Storage
+$ npm i @react-native-async-storage/async-storage@1.17.3
+
+# Firebase
+$ npm i firebase@9.6.11
+```
 
 ## :information_source: How to use
 
@@ -69,14 +78,6 @@ $ npm install
 $ expo start
 ```
 
-### :instalations: Instalations
-```bash
-# Async Storage
-$ npm i @react-native-async-storage/async-storage@1.17.3
-
-# Firebase
-$ npm i firebase@9.6.11
-```
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/
 [rn]: https://facebook.github.io/react-native/

@@ -13,7 +13,7 @@ export default function Create({ navigation }) {
   const [confirmaSenha, setConfirmaSenha] = useState('');
 
   useEffect(() => {
-    createUserWithEmailAndPassword(auth, 'teste@email.com', '123456')
+    createUserWithEmailAndPassword(auth, 'teste1@email.com', '123456')
       .then((userCredential) => {
         console.log(userCredential)
         const user = userCredential.user;
@@ -22,7 +22,7 @@ export default function Create({ navigation }) {
         console.log(error);
       });
   }, []);
-  
+
 
   return (
     <View style={styles.container}>

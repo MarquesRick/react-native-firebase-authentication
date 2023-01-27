@@ -52,6 +52,9 @@ $ npm i @react-native-async-storage/async-storage@1.17.3
 
 # Firebase
 $ npm i firebase@9.6.11
+
+# Dotenv - for hide credentials
+$ npm i react-native-dotenv@3.3.1  
 ```
 
 ## :information_source: How to use

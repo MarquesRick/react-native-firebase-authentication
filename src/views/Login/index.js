@@ -22,9 +22,9 @@ export default function Login({ navigation }) {
         secureTextEntry
       />
       
-      <ButtonCustom onPress={() => navigation.navigate('Principal')}>LOGAR 1</ButtonCustom>
+      <ButtonCustom onPress={() => navigation.navigate('Main')}>LOGAR 1</ButtonCustom>
       <ButtonCustom 
-        onPress={() => { navigation.navigate('Cadastro') }}
+        onPress={() => { navigation.navigate('Create') }}
       >
         CADASTRAR USUÁRIO
       </ButtonCustom>
